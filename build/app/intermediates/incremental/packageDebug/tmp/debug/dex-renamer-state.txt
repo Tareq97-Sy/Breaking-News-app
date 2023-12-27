@@ -1,4 +1,0 @@
-#Wed Dec 27 18:13:42 GMT+02:00 2023
-base.0=E\:\\flutter\\portfolio\\tareq_khashaneh\\tareq_khashaneh\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
